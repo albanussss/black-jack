@@ -1,2 +1,1 @@
-Readme :
-
+# Projet Blackjack en C.
